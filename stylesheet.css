@@ -1,0 +1,53 @@
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff3e6; /* soft peach background */
+    color: #333;
+    margin: 0;
+}
+
+/* Heading styles */
+h1 {
+    color: #6a1b1b;
+    text-align: center;
+}
+
+
+.section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #ffe0b2; /* warm light orange */
+    border-radius: 10px;
+}
+
+
+#header {
+    background-color: #d84315; /* deep orange-red */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+#footer {
+    background-color: #bf360c; /* darker burnt orange */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+img {
+    border: 0px solid #d84315;
+    padding: 5px;
+    width: 200px
+}
+
+
+a {
+    color: #6a1b1b;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: #ff7043; /* lighter orange when hovered */
+}
